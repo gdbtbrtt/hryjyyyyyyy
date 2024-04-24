@@ -1,0 +1,4 @@
+class PermissionManager:
+    def grant_permission(self, user, permission):
+        # Grant specific permission to users
+        pass
